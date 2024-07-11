@@ -1,5 +1,5 @@
 {
-	"name": "onlytechstacks",
+	"name": "fr.techstacks,
 	"scripts": {
 		"start": "remotion studio",
 		"build": "remotion render TechStack out/video.gif",
