@@ -48,16 +48,16 @@ const techs = {
 		image: "astro-icon-light-gradient.png",
 		status: "done",
 	},
+	aws: {
+		image: "aws.svg",
+		status: "in progress",
+	},
 	bun: {
 		image: "bun.svg",
 		status: "done",
 	},
 	cplusplus: {
 		image: "cplusplus.svg",
-		status: "interested in",
-	},
-	csharp: {
-		image: "csharp.svg",
 		status: "interested in",
 	},
 	cypress: {
@@ -98,7 +98,7 @@ const techs = {
 	},
 	rust: {
 		image: "rust.svg",
-		status: "in progress",
+		status: "interested in",
 	},
 	tailwindcss: {
 		image: "tailwindcss.svg",

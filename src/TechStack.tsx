@@ -50,13 +50,13 @@ export const TechStack = () => {
 				</Series>
 				<Series>
 					<Series.Sequence durationInFrames={30} layout="none">
-						<TechCard tech="csharp" durationInFrames={[-15, 30]} />
+						<TechCard tech="aws" durationInFrames={[-15, 30]} />
 					</Series.Sequence>
 					<Series.Sequence durationInFrames={185} layout="none">
 						<TechCard tech="nextjs" durationInFrames={[0, 185]} />
 					</Series.Sequence>
 					<Series.Sequence durationInFrames={85} layout="none">
-						<TechCard tech="csharp" durationInFrames={[0, 300]} />
+						<TechCard tech="aws" durationInFrames={[0, 300]} />
 					</Series.Sequence>
 				</Series>
 				<Series>
